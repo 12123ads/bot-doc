@@ -2,6 +2,7 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
   tutorialSidebar: [
+    'init',
     {
       type: 'category',
       label: '游戏类指令',
@@ -9,7 +10,6 @@ const sidebars: SidebarsConfig = {
     },
   ],
 };
-
 
 /*
 const sidebars: SidebarsConfig = {
