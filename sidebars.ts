@@ -14,7 +14,7 @@ const sidebars: SidebarsConfig = {
   // Manually created sidebar
   tutorialSidebar: [
     'intro',
-    'hello',
+    'congratulations',
     {
       type: 'category',
       label: '教程',
