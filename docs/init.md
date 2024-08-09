@@ -1,6 +1,7 @@
 ---
 id: start
 title: 开始菜单
+sidebar_position: 1
 ---
 
 # 开始使用本机器人
