@@ -28,8 +28,6 @@ const config: Config = {
     defaultLocale: 'zh',
     locales: ['zh'],
   },
-  
-  plugins: ["@orama/plugin-docusaurus-v3"],
 
   presets: [
     [
@@ -48,6 +46,8 @@ const config: Config = {
   ],
 
   themeConfig: {
+    
+    plugins: ["@orama/plugin-docusaurus-v3"],
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
