@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Bot文档',
-  // tagline: 'Bot的菜单',
+  tagline: '（正在施工ing~）',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
