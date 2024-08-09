@@ -47,7 +47,7 @@ const config: Config = {
 
   themeConfig: {
 
-    plugins: ["@orama/plugin-docusaurus-v3"],
+    // plugins: ["@orama/plugin-docusaurus-v3"],
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
