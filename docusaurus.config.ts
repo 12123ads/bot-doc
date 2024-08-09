@@ -73,7 +73,7 @@ const config: Config = {
           items: [
             {
               label: '使用文档',
-              to: '/docs/init',
+              to: '/docs/start',
             },
           ],
         },

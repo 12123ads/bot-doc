@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/init">
+            to="/docs/start">
             点击查看Bot的指令~
           </Link>
         </div>
