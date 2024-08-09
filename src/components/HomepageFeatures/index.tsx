@@ -9,7 +9,12 @@ type FeatureItem = {
 };
 
 
-const FeatureList: FeatureItem[] = [];
+const FeatureList: FeatureItem[] = [
+  {
+    title: '开箱即用',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+  },
+];
 /*
 const FeatureList: FeatureItem[] = [
   {
