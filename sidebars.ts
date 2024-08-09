@@ -14,11 +14,10 @@ const sidebars: SidebarsConfig = {
   // Manually created sidebar
   tutorialSidebar: [
     'intro',
-    'congratulations',
     {
       type: 'category',
-      label: '教程',
-      items: ['tutorial-basics/create-a-document'],
+      label: '基础教程',
+      items: ['tutorial-basics/create-a-document', 'tutorial-basics/create-a-page', 'tutorial-basics/create-a-blog-post'],
     },
   ],
 };
