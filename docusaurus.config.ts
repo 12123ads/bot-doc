@@ -96,6 +96,7 @@ const config: Config = {
               label:'GsCore',
               to:'https://docs.sayu-bot.com/',
             },
+          ],
       ],
       copyright:`版权 © ${new Date().getFullYear()} Bot文档, 使用 Docusaurus 构建。`,
     },
