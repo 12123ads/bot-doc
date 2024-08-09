@@ -46,7 +46,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    
+
     plugins: ["@orama/plugin-docusaurus-v3"],
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
@@ -77,6 +77,25 @@ const config: Config = {
             },
           ],
         },
+        {
+          title:'相关程序',
+          items:[
+            {
+              label:'NoneBot',
+              to:'https://nonebot.dev/',
+            },
+            {
+              label:'Napcat',
+              to:'https://napneko.github.io/zh-CN/',
+            },
+            {
+              label:'Koishi',
+              to:'https://koishi.chat/zh-CN/',
+            },
+            {
+              label:'GsCore',
+              to:'https://docs.sayu-bot.com/',
+            },
       ],
       copyright:`版权 © ${new Date().getFullYear()} Bot文档, 使用 Docusaurus 构建。`,
     },
