@@ -8,6 +8,7 @@ type FeatureItem = {
   description: JSX.Element;
 };
 
+/*
 const FeatureList: FeatureItem[] = [
   {
     title: 'Easy to Use',
@@ -40,6 +41,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
 ];
+*/
 
 function Feature({title, Svg, description}: FeatureItem) {
   return (
