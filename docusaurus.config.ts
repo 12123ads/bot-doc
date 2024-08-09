@@ -28,6 +28,8 @@ const config: Config = {
     defaultLocale: 'zh',
     locales: ['zh'],
   },
+  
+  plugins: ["@orama/plugin-docusaurus-v3"],
 
   presets: [
     [

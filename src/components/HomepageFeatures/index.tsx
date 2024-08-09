@@ -14,6 +14,14 @@ const FeatureList: FeatureItem[] = [
     title: '开箱即用',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
   },
+  {
+    title: '专注于重要事项',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+  },
+  {
+    title: '基于前人的脚步（',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+  },
 ];
 /*
 const FeatureList: FeatureItem[] = [
