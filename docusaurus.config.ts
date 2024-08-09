@@ -91,7 +91,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright:`版权 © ${new Date().getFullYear()} Bot文档, 使用 Docusaurus 构建。`,
+      copyright:`版权© ${new Date().getFullYear()} Bot文档, 使用 Docusaurus 构建。`,
     },
     prism: {
       theme: prismThemes.github,
