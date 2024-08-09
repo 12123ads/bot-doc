@@ -8,6 +8,8 @@ type FeatureItem = {
   description: JSX.Element;
 };
 
+
+const FeatureList: FeatureItem[] = [];
 /*
 const FeatureList: FeatureItem[] = [
   {
